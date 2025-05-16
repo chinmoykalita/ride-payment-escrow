@@ -6,6 +6,6 @@ target
 node_modules
 test-ledger
 .yarn
-keys
+keys/
 test.log
 .env
