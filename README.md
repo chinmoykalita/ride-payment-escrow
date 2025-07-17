@@ -1,1 +1,1 @@
-Simple escrow program for a cab booking platform
+Simple solana escrow program for a cab booking platform
